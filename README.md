@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Linkedin: sinnovah](https://img.shields.io/badge/-sinnovah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinnovah/)](https://www.linkedin.com/in/sinnovah/)
+[![Twitter: sinnovah](https://img.shields.io/twitter/follow/sinnovah?style=social)](https://twitter.com/sinnovah)
+
+### Hi there I am Sinnovah 👋
 
 <!--
 **sinnovah/sinnovah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
