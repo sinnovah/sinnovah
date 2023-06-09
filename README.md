@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 [![Linkedin: sinnovah](https://img.shields.io/badge/-sinnovah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinnovah/)](https://www.linkedin.com/in/sinnovah/)
 [![Twitter: sinnovah](https://img.shields.io/badge/-sinnovah-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/in/sinnovah/)](https://twitter.com/sinnovah)
-[![Github: sinnovah](https://img.shields.io/badge/-sinnovah-blue?style=flat-square&logo=Github&logoColor=white&link=https://www.github/sinnovah/)](https://gihub.com/sinnovah)
+[![Github: sinnovah](https://img.shields.io/badge/-sinnovah-blue?style=flat-square&logo=Github&logoColor=white&link=https://www.github/sinnovah/)](https://github.com/sinnovah)
